@@ -1,6 +1,6 @@
 # console
 This tools help developers to create terminal software faster and safer.
-It has usefull functions for reading, printing and manipulate text and screen coordinates.
+It has usefull functions for reading, printing and manipulate text and screen coordinates. </br>
 
 
 این ابزارها به توسعه دهندگان اجازه ساخت برنامه های تحت ترمینال به روشی سریع تر و امن تر میدهد.
