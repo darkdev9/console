@@ -1,6 +1,8 @@
 #ifndef CONSOLE_H
 #define CONSOLE_H
 
+/*Created by darkDev9 */
+
 #define UNX_ENTER 10
 #define UNX_BKSP 127
 #define WIN_ENTER 13
