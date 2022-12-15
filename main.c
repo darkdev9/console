@@ -1,5 +1,7 @@
 #include "console.h"
 
+/*Created by darkDev9 */
+
 int main() {
     char *arr = input("password: ", INT_MAX, false);
     printc('-', 40, true);
