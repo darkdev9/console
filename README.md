@@ -1,4 +1,4 @@
-# console
+# console 👽🎩
 This tools help developers to create terminal software faster and safer.
 It has usefull functions for reading, printing and manipulate text and screen coordinates. </br>
 
